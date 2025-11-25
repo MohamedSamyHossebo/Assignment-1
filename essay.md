@@ -16,7 +16,7 @@ for(const num of [1,2,3]){
 ```
 
   #### we can use forEach when we needs to apply small function on all elements without controlling in the flow.
-  #### we can use for...of if we needs more control like ```await````
+  #### we can use for...of if we needs more control like ```await```
 ## 2. What is hoisting and what is the Temporal Dead Zone (TDZ)? Explain with examples.
  - Hoisting is the process of lifting the variables to the top scope in the process of the compilation before run the code .
  - example : 
